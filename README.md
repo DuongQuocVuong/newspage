@@ -1,2 +1,1 @@
-# newspage
-Web tin tuc 
+#Trang web tin tuc php
